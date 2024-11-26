@@ -9,9 +9,9 @@ const Hero = () => {
       <img src={profile_img} alt="" />
       <h1>
         {" "}
-        <span>I'm Surya Prakash,</span> MERN Stack Developer.
+        <span>I'm Surya Prakash,</span> Aspiring MERN Stack Developer.
       </h1>
-      <p>Aspiring MERN Stack developer from Chennai,India </p>
+      <p>"Hi, I’m Surya, a passionate MERN Stack Developer. I specialize in building dynamic, scalable web apps using MongoDB, Express, React, and Node.js. Eager to learn and grow, I’m ready to take on new challenges and build innovative solutions."</p>
       <div className="hero-action">
         <div className="hero-connect">
           <AnchorLink className="anchor-link" offset={50} href="#contact">

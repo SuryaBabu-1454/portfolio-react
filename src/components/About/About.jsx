@@ -16,10 +16,9 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa officiis, consequuntur repellat corporis animi voluptates id aliquam perspiciatis. Assumenda, neque!
-                    </p>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa exercitationem ratione accusamus accusantium veniam quo.</p>
+                    <p>Hi, I’m Surya Prakash – an enthusiastic MERN Stack Developer from Chennai, India. I specialize in building dynamic, scalable web applications using modern web technologies.
+                   </p>
+                    <p>I hold a Master’s in Computer Applications and have completed a comprehensive MERN Stack Development course at Fita Academy, where I deepened my understanding of full-stack development. I’m passionate about creating seamless user experiences and efficient applications.</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill">
@@ -43,17 +42,21 @@ const About = () => {
         </div>
         <div className="about-achievements">
             <div className="about-achievement">
-                <h1>1+</h1>
+                <h1>0</h1>
+                <span className='achievement-descriptions'>Though I’m new to the industry, I’ve gained solid hands-on experience through extensive project work and training in the MERN stack.</span>
                 <p>Years of Experience</p>
             </div>
             <hr />
             <div className="about-achievement">
                 <h1>5+</h1>
+                <span  className='achievement-descriptions'>Built several full-stack web applications, including e-commerce sites, task managers, and portfolios using the MERN stack.
+                </span>
                 <p>Projects Completed</p>
             </div>
             <hr />
             <div className="about-achievement">
-                <h1>15+</h1>
+                <h1> None</h1>
+                <span className='achievement-descriptions'>Currently seeking opportunities to work on real-world client projects and gain valuable industry experience.</span>
                 <p>Happy Clients</p>
             </div>
            

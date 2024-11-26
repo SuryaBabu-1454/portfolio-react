@@ -27,6 +27,7 @@
     gap: 80px;
 }
 .about-left img{
+    margin-top: 50px;
     width: 100%;
     height: 80%;
 }
@@ -78,7 +79,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 15px;
     transition: 0.5s;
 }
 .about-achievement h1{
@@ -88,6 +89,12 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+.achievement-descriptions{
+   text-align: center;
+   font-weight: 200;
+   margin: auto 10px;
 }
 .about-achievement p{
     font-size: 22px;
@@ -140,7 +147,7 @@
         justify-content: space-between;
     }
     .about-achievement{
-        gap: 10px;
+        gap: 15px;
     }
     .about-achievement h1{
         font-size: 34px;
