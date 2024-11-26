@@ -1,0 +1,12 @@
+.resume{
+   
+    display: flex;
+    justify-content: center;
+}
+.resume input{
+    height:fit-content;
+    width: 50%;
+    margin-bottom: 50PX;
+   display: none;
+
+}
